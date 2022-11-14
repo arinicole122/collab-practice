@@ -1,3 +1,21 @@
 h1{
     color:red;
 }
+*{
+    width: 100vw;
+    margin: 0;
+    padding: 0;
+    font-size: 4vh;
+}
+.header{
+    justify-content: center;
+    background-color: rgba(65, 139, 236, 0.712);
+}
+.left{
+    background-color: rgb(4, 0, 255);
+}
+.right{
+    background-color: blueviolet;
+}
+.footer{
+    background-color: rgb(213, 255, 205);
